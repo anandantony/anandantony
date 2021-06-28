@@ -1,7 +1,7 @@
 <h1 align="center">Hello there!👋 I'm Anand</h1>
 <h3 align="center">A Third year Computer Science Engineering Student exploring the vast world of technology</h3>
 
-- 🔭 I’m currently working on [A small game engine](https://github.com/anandantony/TitanEngine)
+- 🔭 I’m currently working on [a small game engine](https://github.com/anandantony/TitanEngine)
 
 - 🌱 I’m currently learning **Game engine development, Game dev, Flutter app dev, Web dev**
 
