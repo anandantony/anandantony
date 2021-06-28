@@ -46,7 +46,7 @@
 <!-- Softwares or tools -->
 
 <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-<a href="https://www.unrealengine.com/en-US/" target="_blank"> <img src="https://github.com/anandantony/anandantony/blob/main/ue4.png?raw=true" alt="unreal" width="40" height="40" border-radius="50%"/> </a>
+<a href="https://www.unrealengine.com/en-US/" target="_blank"> <img src="https://github.com/anandantony/anandantony/blob/main/ue4.png?raw=true" alt="unreal" width="50" height="50"/> </a>
 
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vscode" width="40" height="40"/></a> 
 <a href="https://visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40" height="40"/></a> 
