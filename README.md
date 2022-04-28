@@ -50,8 +50,7 @@
 <a href="https://godotengine.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="godot" width="40" height="40"/> </a>
 
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vscode" width="40" height="40"/></a> 
-<a href="https://visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40" height="40"/></a> 
-<a href="https://www.blackmagicdesign.com/in/products/davinciresolve/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/DaVinci_Resolve_Logo.png" alt="davinci" width="40" height="40"/> </a> 
+<a href="https://visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40" height="40"/></a>
 </p>
 
 <!-- Other -->
