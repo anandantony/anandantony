@@ -15,6 +15,7 @@ At work, I am responsible for developing and maintaining full-stack web applicat
 ---
 
 <h3 align="left">Connect:</h3>
+
 📫 How to reach me **anandantony.7599@gmail.com**
 
 <p align="left">
