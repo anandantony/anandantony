@@ -2,6 +2,7 @@
 <h3 align="center">I'm a full stack developer at Shiprocket</h3>
 
 <p>Apart from work, I'm :</p>
+
 - 🔭 currently working on [a small game engine](https://github.com/anandantony/TitanEngine)
 
 - 🌱 currently learning **Game engine development, Game dev, Flutter app dev, Web dev**
