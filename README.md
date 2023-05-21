@@ -2,8 +2,7 @@
 <p align="center">I am a software engineer with a passion for developing full-stack web applications and games. I am familiar with Angular and Laravel, and I am also learning other technologies such as Node.js, Svelte, and MySQL along with Dockerizing applications.</p>
 
 <h5>Work</h5>
-At work, I am responsible for developing and maintaining full-stack web applications. I use Angular to build the frontend of the applications, and I use Laravel to build the backend.
-
+<p>At work, I am responsible for developing and maintaining full-stack web applications. I use Angular to build the frontend of the applications, and I use Laravel to build the backend.</p>
 
 <p>Apart from work, I'm :</p>
 
