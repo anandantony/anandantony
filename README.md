@@ -4,6 +4,7 @@
 <h5>Work</h5>
 At work, I am responsible for developing and maintaining full-stack web applications. I use Angular to build the frontend of the applications, and I use Laravel to build the backend.
 
+
 <p>Apart from work, I'm :</p>
 
 - 🎮 currently working on [a small game](https://github.com/anandantony/)
