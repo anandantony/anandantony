@@ -11,12 +11,11 @@ At work, I am responsible for developing and maintaining full-stack web applicat
 - 🌱 currently learning **Game design & development, Go, Flutter, Docker, etc.**
 
 - 🤝 looking for help with **Go and Flutter**
-
-📫 How to reach me **anandantony.7599@gmail.com**
   
 ---
 
 <h3 align="left">Connect:</h3>
+📫 How to reach me **anandantony.7599@gmail.com**
 <p align="left">
 <a href="https://www.linkedin.com/in/anandantony99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_anand_antony_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
