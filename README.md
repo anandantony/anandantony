@@ -1,13 +1,16 @@
 <h1 align="center">Hello there!👋 I'm Anand</h1>
-<h3 align="center">I'm a full stack developer at Shiprocket</h3>
+<h5 align="center">I am a software engineer with a passion for developing full-stack web applications and games. I am familiar with Angular and Laravel, and I am also learning other technologies such as Node.js, Svelte, and MySQL.</h5>
+
+<h5>Work</h5>
+At work, I am responsible for developing and maintaining full-stack web applications. I use Angular to build the frontend of the applications, and I use Laravel to build the backend.
 
 <p>Apart from work, I'm :</p>
 
-- 🔭 currently working on [a small game engine](https://github.com/anandantony/TitanEngine)
+- 🎮 currently working on [a small game](https://github.com/anandantony/)
 
-- 🌱 currently learning **Game engine development, Game dev, Flutter app dev, Web dev**
+- 🌱 currently learning **Game design & development, Go, Flutter, etc.**
 
-- 🤝 looking for help with **Flutter**
+- 🤝 looking for help with **Go and Flutter**
 
 📫 How to reach me **anandantony.7599@gmail.com**
   
