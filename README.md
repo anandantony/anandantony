@@ -1,13 +1,14 @@
 <h1 align="center">Hello there!👋 I'm Anand</h1>
 <h3 align="center">I'm a full stack developer at Shiprocket</h3>
 
-- 🔭 I’m currently working on [a small game engine](https://github.com/anandantony/TitanEngine)
+<p>Apart from work, I'm :</p>
+- 🔭 currently working on [a small game engine](https://github.com/anandantony/TitanEngine)
 
-- 🌱 I’m currently learning **Game engine development, Game dev, Flutter app dev, Web dev**
+- 🌱 currently learning **Game engine development, Game dev, Flutter app dev, Web dev**
 
-- 🤝 I’m looking for help with **Flutter**
+- 🤝 looking for help with **Flutter**
 
-- 📫 How to reach me **anandantony.7599@gmail.com**
+📫 How to reach me **anandantony.7599@gmail.com**
   
 ---
 ### Now Listening to 🎧
