@@ -1,5 +1,5 @@
 <h1 align="center">Hello there!👋 I'm Anand</h1>
-<p align="center">I am a software engineer with a passion for developing full-stack web applications and games. I am familiar with Angular and Laravel, and I am also learning other technologies such as Node.js, Svelte, and MySQL.</p>
+<p align="center">I am a software engineer with a passion for developing full-stack web applications and games. I am familiar with Angular and Laravel, and I am also learning other technologies such as Node.js, Svelte, and MySQL along with Dockerizing applications.</p>
 
 <h5>Work</h5>
 At work, I am responsible for developing and maintaining full-stack web applications. I use Angular to build the frontend of the applications, and I use Laravel to build the backend.
@@ -8,7 +8,7 @@ At work, I am responsible for developing and maintaining full-stack web applicat
 
 - 🎮 currently working on [a small game](https://github.com/anandantony/)
 
-- 🌱 currently learning **Game design & development, Go, Flutter, etc.**
+- 🌱 currently learning **Game design & development, Go, Flutter, Docker, etc.**
 
 - 🤝 looking for help with **Go and Flutter**
 
