@@ -15,10 +15,6 @@ At work, I am responsible for developing and maintaining full-stack web applicat
 📫 How to reach me **anandantony.7599@gmail.com**
   
 ---
-### Now Listening to 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9cwot8hligc9vmvfm0ykz8khi&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=9cwot8hligc9vmvfm0ykz8khi&redirect=true)
-
----
 
 <h3 align="left">Connect:</h3>
 <p align="left">
@@ -26,6 +22,21 @@ At work, I am responsible for developing and maintaining full-stack web applicat
 <a href="https://www.instagram.com/_anand_antony_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anandantony_7599" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
 </p>
+
+---
+
+<br>
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=anandantony&show_icons=true&theme=dark&locale=en&layout=compact" alt="anandantony" /></p>
+
+<br>
+<p>
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anandantony&show_icons=true&theme=dark&title_color=d9d9d9&text_color=dfdddd&locale=en" alt="anandantony" /></p>
+
+<br>
+
+---
+### Now Listening to 🎧
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9cwot8hligc9vmvfm0ykz8khi&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=9cwot8hligc9vmvfm0ykz8khi&redirect=true)
 
 ---
 
@@ -62,15 +73,5 @@ At work, I am responsible for developing and maintaining full-stack web applicat
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-
----
-<br>
-<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=anandantony&show_icons=true&theme=dark&locale=en&layout=compact" alt="anandantony" /></p>
-
-<br>
-<p>
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anandantony&show_icons=true&theme=dark&title_color=d9d9d9&text_color=dfdddd&locale=en" alt="anandantony" /></p>
-
-<br>
 
 ---
