@@ -65,11 +65,11 @@ At work, I am responsible for developing and maintaining full-stack web applicat
 
 ---
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandantony&show_icons=true&theme=dark&locale=en&layout=compact" alt="anandantony" /></p>
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=anandantony&show_icons=true&theme=dark&locale=en&layout=compact" alt="anandantony" /></p>
 
 <br>
 <p>&nbsp
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=anandantony&show_icons=true&theme=dark&title_color=d9d9d9&text_color=dfdddd&locale=en" alt="anandantony" /></p>
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anandantony&show_icons=true&theme=dark&title_color=d9d9d9&text_color=dfdddd&locale=en" alt="anandantony" /></p>
 
 <br>
 
