@@ -36,10 +36,6 @@
 <br>
 
 ---
-### Now Listening to 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9cwot8hligc9vmvfm0ykz8khi&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=9cwot8hligc9vmvfm0ykz8khi&redirect=true)
-
----
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
