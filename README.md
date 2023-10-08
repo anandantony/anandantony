@@ -1,5 +1,5 @@
 <h1 align="center">Hello there!👋 I'm Anand</h1>
-<p align="center">I am a software engineer passionate about developing full-stack web applications and games. I am familiar with C#, JS, PHP, etc and frameworks like Angular and Laravel, and I am also learning other technologies such as Node.js, Svelte, and MySQL along with Dockerizing applications.</p>
+<p align="center">I am a software engineer passionate about developing full-stack web applications and games. I'm familiar with languages like C#, JS, PHP, etc, RDBMSs like MySQL, NoSQL databases like MongoDB, and frameworks like Angular and Laravel. I'm also learning other technologies such as Spring (and other Java frameworks), Svelte, and other frameworks along with containerizing applications.</p>
 
 <h5>Work</h5>
 <p>I am responsible for developing and maintaining full-stack web applications at work. I use Angular to build frontend applications and Laravel/JS to build the backend micro-services.</p>
