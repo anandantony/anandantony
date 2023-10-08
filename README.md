@@ -1,14 +1,14 @@
 <h1 align="center">Hello there!👋 I'm Anand</h1>
-<p align="center">I am a software engineer with a passion for developing full-stack web applications and games. I am familiar with Angular and Laravel, and I am also learning other technologies such as Node.js, Svelte, and MySQL along with Dockerizing applications.</p>
+<p align="center">I am a software engineer passionate about developing full-stack web applications and games. I am familiar with Angular and Laravel, and I am also learning other technologies such as Node.js, Svelte, and MySQL along with Dockerizing applications.</p>
 
 <h5>Work</h5>
-<p>At work, I am responsible for developing and maintaining full-stack web applications. I use Angular to build the frontend of the applications, and I use Laravel to build the backend.</p>
+<p>I am responsible for developing and maintaining full-stack web applications at work. I use Angular to build frontend applications and Laravel/JS to build the backend micro-services.</p>
 
-<p>Apart from work, I'm :</p>
+<p>Apart from work, I'm:</p>
 
 - 🎮 currently working on [a small game](https://github.com/anandantony/)
 
-- 🌱 currently learning **Game design & development, Go, Flutter, Docker, etc.**
+- 🌱 learning **Game design & development, Go, Flutter, Docker, etc.**
 
 - 🤝 looking for help with **Go and Flutter**
   
@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/anandantony99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_anand_antony_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/anandantony_7599" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
+<!-- <a href="https://www.hackerrank.com/anandantony_7599" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a> -->
 </p>
 
 ---
