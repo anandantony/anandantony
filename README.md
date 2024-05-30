@@ -186,8 +186,9 @@
 </p>
   
 <h3>Stats</h3>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandantony&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="anandantony" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anandantony&show_icons=true&theme=tokyonight&locale=en" alt="anandantony" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=anandantony&theme=tokyonight)](https://git.io/streak-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anandantony&theme=dark" alt="anandantony" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anandantony&show_icons=true&theme=tokyonight&locale=en" alt="anandantony" /></p>
