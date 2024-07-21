@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Anand</h1>
 <h3 align="center">A passionate frontend & game developer from India</h3>
 
-<p align="center">I am a software engineer eager about developing full-stack web applications and games. I'm familiar with languages like C#, JS, PHP, etc, RDBMSs like MySQL, NoSQL databases like MongoDB, frameworks like Angular, SvelteKit and Laravel, and game engines like Unity, Godot and Unreal. I'm also learning other languages and technologies like Rust (Bevy engine), Spring Boot (and other Java frameworks), React (Next.js), and other frameworks along with containerizing applications.</p>
+<p align="center">I am a software engineer eager to develop full-stack web applications and games. I'm familiar with languages like C#, JS, PHP, etc, RDBMSs like MySQL, NoSQL databases like MongoDB, frameworks & libraries like Angular, Next.js, React, Spring Boot, SvelteKit and Laravel, and game engines like Unity, Godot and Unreal. I'm also learning other languages and technologies like Go, Raylib, Colysseus and other frameworks, and containerizing applications.</p>
 <br>
 <h5>Work</h5>
 <p>I am responsible for developing and maintaining full-stack web applications. I use Angular and SvelteKit to build frontend applications and Laravel, Spring Boot and Express.js to build the backend micro-services and monoliths.</p>
