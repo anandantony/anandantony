@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Anand</h1>
-<h3 align="center">A passionate frontend & game developer from India</h3>
+<h3 align="center">A passionate web & game developer from India</h3>
 
 <p align="center">I am a software engineer eager to develop full-stack web applications and games. I'm familiar with languages like C#, JS, PHP, etc, RDBMSs like MySQL, NoSQL databases like MongoDB, frameworks & libraries like Angular, Next.js, React, Spring Boot, SvelteKit and Laravel, and game engines like Unity, Godot and Unreal. I'm also learning other languages and technologies like Go, Raylib, Colysseus and other frameworks, and containerizing applications.</p>
 <br>
