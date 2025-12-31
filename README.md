@@ -189,6 +189,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandantony&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="anandantony" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=anandantony&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=anandantony&theme=synthwave)](https://git.io/streak-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anandantony&show_icons=true&theme=tokyonight&locale=en" alt="anandantony" /></p>
