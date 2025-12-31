@@ -16,7 +16,7 @@
 
 - 👨‍💻 Some of my projects are previewable at [anandantony.github.io](anandantony.github.io)
 
-- 💬 Ask me about **Angular, JS, Game engines, or life in general**
+- 💬 Ask me about **JS, Game engines, or life in general**
 
 - 📫 How to reach me **[anandantony.7599@gmail.com](mailto:anandantony.7599@gmail.com)**
 
